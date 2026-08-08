@@ -1,3 +1,7 @@
 ! Title: Allowlist
 ! Description: Whitelist các domain thủ công, tránh bị block nhầm
 ! Version: 1.0
+
+sacombank.com.vn
+sacombank.com
+isacombank.com.vn
